@@ -1,6 +1,6 @@
 ## Hi, Spring fans 👋! 
 
-You'll find the code for each installment of my series _Spring Tips_ here
+You'll find the code for each installment of [my Youtube series _Spring Tips_](https://bit.ly/spring-tips-playlist) here
 
 <!--
 
